@@ -11,7 +11,7 @@ To provide the best experience we focus on the symbiosis of type-safe complement
 > #### _Found it usefull? Want more updates?_ [**Give it a :star2:**](https://github.com/piotrwitek/react-redux-typescript-patterns/stargazers)  
 
 ### Goals
-- Complete type safety (with [`--strict`](https://www.typescriptlang.org/docs/handbook/compiler-options.html) flag) without loosing type information downstream through all the layers of our application (e.g. no type assertions or hacking with `any` type)
+- Complete type safety (with [`--strict`](https://www.typescriptlang.org/docs/handbook/compiler-options.html) flag) without losing type information downstream through all the layers of our application (e.g. no type assertions or hacking with `any` type)
 - Make type annotations concise by eliminating redudancy in types using advanced TypeScript Language features like **Type Inference** and **Control flow analysis**
 - Reduce repetition and complexity of types with TypeScript focused [complementary libraries](#complementary-libraries)
 
